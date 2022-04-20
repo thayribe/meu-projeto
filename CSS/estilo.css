@@ -1,0 +1,101 @@
+.button {
+  font-family: montserrat, sans-serif;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.button :hover {
+  transform: scale(1.5);
+  box-shadow: 0 2px 10px #b8d3e9;
+}
+
+a {
+  text-decoration: none;
+  color: #756f6f;
+  padding: 5px;
+  margin: 5px;
+  letter-spacing: 3px;
+}
+
+.icones {
+  text-align: center;
+  font-size: 38px;
+  color: #404642;
+  padding: 20px;
+}
+
+.icones :hover {
+  transform: scale(1);
+  box-shadow: 0 2px 10px #b8d3e9;
+}
+
+img {
+  width: 230px;
+  padding: 20px;
+  box-shadow: 50px #c2bfbf99;
+}
+
+.meio {
+  background-image: url(../coração.png);
+  background-repeat: repeat-y;
+  text-align: center;
+  margin: 0px;
+  padding: 80px;
+  height: auto;
+}
+
+.voltar {
+  color: #756f6f;
+  padding: 5px;
+  margin: 0%;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+.voltar :hover {
+  transform: scale(1.5);
+  box-shadow: 0 2px 10px #b8d3e9;
+}
+
+.pagina1,
+.pagina2,
+.pagina3,
+.pagina4 {
+  color: #262b27;
+  text-align: center;
+  font-size: 20px;
+  padding: 50px;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  background-image: url(../coração.png);
+  color: #8d7544;
+  margin: 0px;
+  padding: 20px;
+  letter-spacing: 3px;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center; /*TERMINAR DE CONFIGURAR H2 DEPOIS.*/
+  color: #8d7544;
+  padding: 5px;
+  margin: 5px;
+  letter-spacing: 3px;
+  font-size: 25px;
+  font-family: "Lucida Sans";
+}
+
+body {
+  border: 0px;
+  margin: 0px;
+}
+
+p,
+li {
+  color: #262b27;
+  text-align: center;
+}
